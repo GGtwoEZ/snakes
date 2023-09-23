@@ -22,7 +22,7 @@ var foodY;
 
 // Enemies
 var enemies = []; // Array to store enemy objects
-var enemyCount = 1; // Number of enemies on the board
+var enemyCount = 3; // Number of enemies on the board
 
 // Game state
 var gameOver = false;
