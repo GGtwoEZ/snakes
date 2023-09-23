@@ -1,7 +1,7 @@
 body {
     font-family: comic sans-serif;
     text-align: center;
-    background-image: url('../background.jpg');
+    background-image: url('../snakes/background.jpg');
     background-size: cover; /* You can adjust this value */
     background-repeat: no-repeat;
     background-attachment: fixed;
