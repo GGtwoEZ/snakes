@@ -1,0 +1,22 @@
+body {
+    font-family: comic sans-serif;
+    text-align: center;
+    background-image: url('../background.jpg');
+    background-size: cover; /* You can adjust this value */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.container {
+    text-align: center;
+}
